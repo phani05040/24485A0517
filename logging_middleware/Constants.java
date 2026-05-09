@@ -1,8 +1,6 @@
-class Constants {
-
-    public static final String LOG_API =
-            "http://20.244.56.144/evaluation-service/logs";
-
+class Constants 
+{
+    public static final String LOG_API = "http://20.244.56.144/evaluation-service/logs";
     public static final String ACCESS_TOKEN =
             "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJkcGhhbmkwNTA0QGdtYWlsLmNvbSIsImV4cCI6MTc3ODMwNTg0NCwiaWF0IjoxNzc4MzA0OTQ0LCJpc3MiOiJBZmZvcmQgTWVkaWNhbCBUZWNobm9sb2dpZXMgUHJpdmF0ZSBMaW1pdGVkIiwianRpIjoiNzMzNzdkMTgtNjZhYS00NzQ3LThhOTQtYjUzMmI5ZTczYmEwIiwibG9jYWxlIjoiZW4tSU4iLCJuYW1lIjoiZGV2aSBwaGFuaW5kcmEiLCJzdWIiOiJmNjY5MTE5ZS04ODVmLTRkM2YtYWEwYy1mYWUyYjQ2OWZjMzgifSwiZW1haWwiOiJkcGhhbmkwNTA0QGdtYWlsLmNvbSIsIm5hbWUiOiJkZXZpIHBoYW5pbmRyYSIsInJvbGxObyI6IjI0NDg1YTA1MTciLCJhY2Nlc3NDb2RlIjoiZUpkQ3VDIiwiY2xpZW50SUQiOiJmNjY5MTE5ZS04ODVmLTRkM2YtYWEwYy1mYWUyYjQ2OWZjMzgiLCJjbGllbnRTZWNyZXQiOiJGdVRuc25nWE1DUlp1YWRuIn0.vEx5lPNDHu8oWX3rRTg2RKX2FrY7jbniE8MfJcZfLvE";
 }
